@@ -34,6 +34,9 @@
 <v t="leo.20210318004136.1"><vh>slide 5-3</vh></v>
 <v t="leo.20210318004140.1"><vh>slide 5-4</vh></v>
 <v t="leo.20210318004146.1"><vh>slide 5-5</vh></v>
+<v t="leo.20210318005102.1"><vh>slide 5-6</vh></v>
+<v t="leo.20210318005103.1"><vh>slide 5-7</vh></v>
+<v t="leo.20210318005104.1"><vh>slide 5-8</vh></v>
 </v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
@@ -650,7 +653,18 @@ console.log( '"customevent" has fired' );
     &lt;p&gt;&lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E7%B5%90%E6%A7%8B1.jpg" width="450"&gt;
     &lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E7%B5%90%E6%A7%8B2.jpg" width="450"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210318004140.1"></t>
-<t tx="leo.20210318004146.1"></t>
+<t tx="leo.20210318004140.1">&lt;section&gt;
+    &lt;h2&gt;鏟子&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E9%8F%9F%E5%AD%90.jpg" width="450"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318004146.1">&lt;section&gt;
+    &lt;h2&gt;活塞1&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E1-1.jpg" width="400"&gt;
+    &lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E1-2.jpg" width="400"&gt;
+    &lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E1-3.jpg" width="400"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318005102.1"></t>
+<t tx="leo.20210318005103.1"></t>
+<t tx="leo.20210318005104.1"></t>
 </tnodes>
 </leo_file>
