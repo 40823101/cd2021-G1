@@ -39,7 +39,9 @@
 <v t="leo.20210318005104.1"><vh>slide 5-8</vh></v>
 </v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
-<v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
+<v t="leo.20200818171244.1"><vh>slide 7 </vh>
+<v t="leo.20210318020042.1"><vh>slide 7-1</vh></v>
+</v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
 <v t="leo.20200818171412.1"><vh>slide 10</vh></v>
@@ -254,52 +256,15 @@ vertical: body pane on the botton</t>
     @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
+<t tx="leo.20200818171215.1">&lt;section&gt;
+    &lt;h2&gt;coppeliasim模擬&lt;/h2&gt;
 &lt;/section&gt;
-
 </t>
-<t tx="leo.20200818171244.1">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
+<t tx="leo.20200818171244.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
 &lt;/section&gt;
+
 
 </t>
 <t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
@@ -680,5 +645,12 @@ console.log( '"customevent" has fired' );
     &lt;img alt="" height="250" src="https://40823101.github.io/stage1-ag4/images/%E9%80%A3%E6%8E%A5%E4%BB%B62.jpg" width="350"&gt;
     &lt;img alt="" height="250" src="https://40823101.github.io/stage1-ag4/images/%E9%80%A3%E6%8E%A5%E4%BB%B63.jpg" width="350"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210318020042.1">&lt;section&gt;
+    &lt;h2&gt;第一次模擬&lt;/h2&gt;
+    &lt;p&gt;將組合件建立從屬關係,並在三個主動軸上添加虛擬軸,結果失敗,各零件四散,疑似從屬關係不順&lt;/p&gt;
+        &lt;p&gt;&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/cgklDZsHStM"&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
