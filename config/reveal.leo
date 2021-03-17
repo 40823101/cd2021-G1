@@ -41,6 +41,8 @@
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh>
 <v t="leo.20210318020042.1"><vh>slide 7-1</vh></v>
+<v t="leo.20210318020417.1"><vh>slide 7-2</vh></v>
+<v t="leo.20210318020418.1"><vh>slide 7-3</vh></v>
 </v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171344.1"><vh>slide 9</vh></v>
@@ -652,5 +654,17 @@ console.log( '"customevent" has fired' );
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20210318020417.1">&lt;section&gt;
+    &lt;h2&gt;第二次模擬&lt;/h2&gt;
+    &lt;p&gt;重新建立組合件之從屬關係,並在各軸上增加虛擬軸以加強物件之間的約束。結果失敗,各零件四散,虛擬軸似乎和物件拘束關係無關&lt;/p&gt;
+        &lt;p&gt;&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/RHqdtkJaeM0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318020418.1">&lt;section&gt;
+    &lt;h2&gt;第三次模擬&lt;/h2&gt;
+    &lt;p&gt;以手動方式轉動虛擬軸。結果失敗,疑似因為我們的主題挖土機手臂需要多個零件互相約束,但coppeliasim只能以一個主動件配合多個從動件,無法讓一個零件既是主動件也是從動件,所以用程式作動時會出現零件約束不足,因此無法順利作動並且零件四散&lt;/p&gt;
+        &lt;p&gt;&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/M_y4J3onAd4"&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;/p&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
