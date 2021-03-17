@@ -642,10 +642,14 @@ console.log( '"customevent" has fired' );
     
 &lt;/section&gt;</t>
 <t tx="leo.20210318004128.1">&lt;section&gt;
-    &lt;h2&gt;組合圖&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E7%B5%84%E5%90%88%E5%9C%96.jpg" width="450"&gt;&lt;/p&gt;
+    &lt;h2&gt;底座&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E5%BA%95%E5%BA%A7.jpg" width="450"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210318004136.1"></t>
+<t tx="leo.20210318004136.1">&lt;section&gt;
+    &lt;h2&gt;結構&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E7%B5%90%E6%A7%8B1.jpg" width="450"&gt;
+    &lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E7%B5%90%E6%A7%8B2.jpg" width="450"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20210318004140.1"></t>
 <t tx="leo.20210318004146.1"></t>
 </tnodes>
