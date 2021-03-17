@@ -659,9 +659,13 @@ console.log( '"customevent" has fired' );
 &lt;/section&gt;</t>
 <t tx="leo.20210317144217.1">&lt;section&gt;
     &lt;h2&gt;選擇動機&lt;/h2&gt;
-    &lt;p&gt;為了想要了解挖土機手臂結構及作動狀態&lt;/p&gt;</t>
+    &lt;p&gt;為了想要了解挖土機手臂結構及作動狀態&lt;/p&gt;
+    &lt;/section&gt;</t>
 <t tx="leo.20210317150735.1">&lt;section&gt;
-    &lt;h2&gt;選擇動機&lt;/h2&gt;
-    &lt;p&gt;為了想要了解挖土機手臂結構及作動狀態&lt;/p&gt;</t>
+    &lt;h2&gt;參考檔案&lt;/h2&gt;
+     &lt;p&gt;&lt;img alt="" height="360" src="https://i1.kknews.cc/SIG=2jio218/31070001965srr18n9s0.jpg" width="450"&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
