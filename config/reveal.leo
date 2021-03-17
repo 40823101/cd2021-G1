@@ -24,14 +24,17 @@
 <v t="leo.20210317144217.1"><vh>slide 2-2</vh></v>
 <v t="leo.20210317150735.1"><vh>slide 2-3</vh></v>
 </v>
-<v t="leo.20200818170636.1"><vh>slide3</vh>
-<v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
-<v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
-<v t="leo.20210318003558.1"><vh>slide 3-4</vh></v>
+<v t="leo.20200818170636.1"><vh>slide3</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="leo.20210318003906.1"><vh>slide 4-1</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
-<v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
+<v t="leo.20200818171138.1"><vh>slide 5 </vh>
+<v t="leo.20210318004033.1"><vh>slide 5-1</vh></v>
+<v t="leo.20210318004128.1"><vh>slide 5-2</vh></v>
+<v t="leo.20210318004136.1"><vh>slide 5-3</vh></v>
+<v t="leo.20210318004140.1"><vh>slide 5-4</vh></v>
+<v t="leo.20210318004146.1"><vh>slide 5-5</vh></v>
+</v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
 <v t="leo.20200818171312.1"><vh>slide 8</vh></v>
@@ -232,49 +235,21 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
+<t tx="leo.20200818170636.1">&lt;section&gt;
+    &lt;h2&gt;Solidworks檔案&lt;/h2&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20200818170725.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
 &lt;/section&gt;
 
-</t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
+
 
 </t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Solidworks檔案&lt;/h2&gt;
+<t tx="leo.20200818171138.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
 &lt;/section&gt;
-</t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;組合圖&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E7%B5%84%E5%90%88%E5%9C%96.jpg" width="450"&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;零件圖&lt;/h2&gt;
-    
-&lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
-&lt;/section&gt;
-
 </t>
 <t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
@@ -658,6 +633,20 @@ console.log( '"customevent" has fired' );
     &lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20210318003558.1"></t>
+<t tx="leo.20210318003906.1">&lt;section&gt;
+    &lt;h2&gt;組合圖&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E7%B5%84%E5%90%88%E5%9C%96.jpg" width="450"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318004033.1">&lt;section&gt;
+    &lt;h2&gt;零件圖&lt;/h2&gt;
+    
+&lt;/section&gt;</t>
+<t tx="leo.20210318004128.1">&lt;section&gt;
+    &lt;h2&gt;組合圖&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E7%B5%84%E5%90%88%E5%9C%96.jpg" width="450"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318004136.1"></t>
+<t tx="leo.20210318004140.1"></t>
+<t tx="leo.20210318004146.1"></t>
 </tnodes>
 </leo_file>
