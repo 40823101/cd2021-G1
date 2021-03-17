@@ -659,15 +659,15 @@ console.log( '"customevent" has fired' );
 &lt;/section&gt;</t>
 <t tx="leo.20210318004146.1">&lt;section&gt;
     &lt;h2&gt;活塞1&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E1-1.jpg" width="400"&gt;
-    &lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E1-2.jpg" width="400"&gt;
-    &lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E1-3.jpg" width="400"&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="300" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E1-1.jpg" width="350"&gt;
+    &lt;img alt="" height="300" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E1-2.jpg" width="350"&gt;
+    &lt;img alt="" height="300" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E1-3.jpg" width="350"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318005102.1">&lt;section&gt;
     &lt;h2&gt;活塞2&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E2.jpg" width="400"&gt;
-    &lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E2-1.jpg" width="400"&gt;
-    &lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E2-2.jpg" width="400"&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="300" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E2.jpg" width="350"&gt;
+    &lt;img alt="" height="300" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E2-1.jpg" width="350"&gt;
+    &lt;img alt="" height="300" src="https://40823101.github.io/stage1-ag4/images/%E6%B4%BB%E5%A1%9E2-2.jpg" width="350"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318005103.1">&lt;section&gt;
     &lt;h2&gt;連桿&lt;/h2&gt;
@@ -676,9 +676,9 @@ console.log( '"customevent" has fired' );
 &lt;/section&gt;</t>
 <t tx="leo.20210318005104.1">&lt;section&gt;
     &lt;h2&gt;連接桿&lt;/h2&gt;
-    &lt;p&gt;&lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E9%80%A3%E6%8E%A5%E4%BB%B61.jpg" width="400"&gt;
-    &lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E9%80%A3%E6%8E%A5%E4%BB%B62.jpg" width="400"&gt;
-    &lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E9%80%A3%E6%8E%A5%E4%BB%B63.jpg" width="400"&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="300" src="https://40823101.github.io/stage1-ag4/images/%E9%80%A3%E6%8E%A5%E4%BB%B61.jpg" width="350"&gt;
+    &lt;img alt="" height="300" src="https://40823101.github.io/stage1-ag4/images/%E9%80%A3%E6%8E%A5%E4%BB%B62.jpg" width="350"&gt;
+    &lt;img alt="" height="300" src="https://40823101.github.io/stage1-ag4/images/%E9%80%A3%E6%8E%A5%E4%BB%B63.jpg" width="350"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
