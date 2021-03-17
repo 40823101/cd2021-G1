@@ -133,7 +133,20 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">Solidworks << <a href='Solidworks.html'>Previous</a> <br /><h1>coppeliasim</h1><br />Solidworks << <a href='Solidworks.html'>Previous</a> </div>
+    <div id="tipue_search_content">Solidworks << <a href='Solidworks.html'>Previous</a> <br /><h1>coppeliasim</h1>
+<p><span>將挖土機手臂的組合圖stl檔以coppeliasim作動測試</span></p>
+<p><span> (發現soildwork的組合圖轉為stl檔後會自動拆開,變成一個個零件stl檔,後來改成匯出成step檔後放入inventor,再轉成stl檔即可為完整的組合圖)</span></p>
+<p><span>測試影片1:將組合件建立從屬關係,並在三個主動軸上添加虛擬軸,結果失敗,各零件四散</span></p>
+<p><span>結果1:失敗,各零件四散,疑似從屬關係不順</span></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/cgklDZsHStM" width="560"></iframe></p>
+<p></p>
+<p>測試影片2:重新建立組合件之從屬關係,並在各軸上增加虛擬軸以加強物件之間的約束</p>
+<p>結果2:<span>失敗,各零件四散,虛擬軸似乎和物件拘束關係無關</span></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/RHqdtkJaeM0" width="560"></iframe></p>
+<p><span></span></p>
+<p><span>測試影片3:以手動方式轉動虛擬軸</span></p>
+<p><span>結果3:失敗,<span>疑似因為我們的主題挖土機手臂需要多個零件互相約束,但coppeliasim只能以一個主動件配合多個從動件,無法讓一個零件既是主動件也是從動件,所以用程式作動時會出現零件約束不足,因此無法順利作動並且零件四散</span></span></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/M_y4J3onAd4" width="560"></iframe></p><br />Solidworks << <a href='Solidworks.html'>Previous</a> </div>
         
     <!-- footer -->
       <div class="container">
