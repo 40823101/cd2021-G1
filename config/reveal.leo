@@ -19,7 +19,11 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+<v t="leo.20210317144127.1"><vh>slide 2</vh>
+<v t="leo.20200818170535.1"><vh>slide 2-1</vh></v>
+<v t="leo.20210317144217.1"><vh>slide 2-2</vh></v>
+<v t="leo.20210317150735.1"><vh>slide 2-3</vh></v>
+</v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
@@ -211,17 +215,18 @@ vertical: body pane on the botton</t>
     &lt;a href="https://revealjs.com"&gt;
         &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
     &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
+    &lt;h3&gt;CD2021-ag4&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;Created by &lt;a href="https://40823101.github.io/cd2021/content/inde&amp;nbsp;&amp;nbsp;x.html"&gt;40823101 林晏鈴&lt;/a&gt; and &lt;a href="https://40823104.github.io/cd2021/content/index.html"&gt;40823104 葉沛翎&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
+    &lt;h2&gt;協同產品主題&lt;/h2&gt;
     &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
+        挖土機手臂&lt;/p&gt;
+        &lt;p&gt;&lt;img alt="" height="360" src="https://raw.githubusercontent.com/40823101/cd2021-ag4/main/images/%E6%8C%96%E5%9C%9F%E6%A9%9F.jpg" width="450"&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -648,5 +653,15 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210317144127.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20210317144217.1">&lt;section&gt;
+    &lt;h2&gt;選擇動機&lt;/h2&gt;
+    &lt;p&gt;為了想要了解挖土機手臂結構及作動狀態&lt;/p&gt;</t>
+<t tx="leo.20210317150735.1">&lt;section&gt;
+    &lt;h2&gt;選擇動機&lt;/h2&gt;
+    &lt;p&gt;為了想要了解挖土機手臂結構及作動狀態&lt;/p&gt;</t>
 </tnodes>
 </leo_file>
