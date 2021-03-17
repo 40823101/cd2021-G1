@@ -250,8 +250,8 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;h2&gt;&lt;/h2&gt;
+    &lt;p&gt;&lt;img alt="" height="360" src="https://40823101.github.io/stage1-ag4/images/%E7%B5%84%E5%90%88%E5%9C%96.jpg" width="450"&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
